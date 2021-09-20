@@ -3,3 +3,13 @@ body {
     color: red;
     font-size: 100pt;
 }
+h2 {
+  color: blue;
+  font-family: verdana;
+  font-size:100pt;
+}
+h3 {
+  color: red;
+  font-family: courier;
+  font-size: 100pt;
+}
