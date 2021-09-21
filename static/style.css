@@ -17,3 +17,7 @@ background-image: url('walltorch.png');
 h1{
     color: lavender;
 }
+h3{
+    color: purple;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
