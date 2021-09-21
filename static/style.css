@@ -1,6 +1,6 @@
 body {
 background-image: url('walltorch.png');
-    font-family: Helvetica;
+    font-family: Times New Roman;
     color: red;
     font-size: 100pt;
     background-color: blue;
@@ -8,4 +8,12 @@ background-image: url('walltorch.png');
 
 .alan-powell {
     color: #E55C4D;
+}
+
+.slee293{
+    color: white;
+}
+
+h1{
+    color: lavender;
 }
